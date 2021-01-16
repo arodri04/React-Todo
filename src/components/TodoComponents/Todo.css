@@ -1,0 +1,13 @@
+div {
+  width: 1000px;
+  margin: 20px auto;
+  text-align: center;
+  background: lightblue;
+  color: slateblue;
+}
+
+.line {
+  text-decoration: line-through;
+  background: red;
+  color: black;
+}
